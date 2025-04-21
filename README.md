@@ -1,0 +1,1 @@
+This is the custom Discord bot for the server Master Modes Cringers.

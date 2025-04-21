@@ -1,0 +1,5 @@
+core/secret.json
+utils/IDs.json
+utils/database/players.db
+*.pyc
+__pycache__/
